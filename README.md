@@ -1,3 +1,3 @@
-# Wikipedia-data-porject-
-This is an example project looking at the trends in wikipedia data
-The code an analysis contained here is taken from the publically available data vailable from wikipedia about the changes and metrics of thier individual pages. 
+# Census data project 
+# This repository will deal with python and pandas practice using a census dataset as practice
+# I aim to cover quick data cleaning protocols, subsetting, grouping, and summary stastictics here among other tasks to be added as I progress 
